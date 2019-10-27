@@ -1,0 +1,34 @@
+@media only screen and (max-width: 1199px) {
+  .post-category{
+    margin-top: 50px;
+  }
+  .navbar-image:after {
+    bottom: -35px;
+  }
+  .spacer {
+    height: 30px;
+  }
+  }
+  
+  @media only screen and (max-width: 992px) {
+   
+  
+  }
+
+  @media only screen and (max-width: 768px) {
+    
+    
+    .parallax-window{
+      margin-top: 30px
+    }
+    
+
+  @media only screen and (max-width: 576px) {
+   
+  }
+
+/* col-sm-12
+col-sm-12
+col-sm-12
+col-sm-12
+col-sm-12 */
